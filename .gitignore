@@ -5,6 +5,7 @@
 *.iml
 out
 gen
+__pycache__
 
 # Virtual environment
 .venv
