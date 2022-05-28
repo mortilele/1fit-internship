@@ -6,6 +6,7 @@ djangorestframework
 drf-spectacular
 inflection
 jsonschema
+Pillow
 pyrsistent
 pytz
 PyYAML
