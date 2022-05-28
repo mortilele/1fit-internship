@@ -1,3 +1,13 @@
 asgiref
+attrs
 Django
+django-filter
+djangorestframework
+drf-spectacular
+inflection
+jsonschema
+pyrsistent
+pytz
+PyYAML
 sqlparse
+uritemplate
